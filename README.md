@@ -4,15 +4,15 @@
 
 Logo North Africa     
 
-🇩🇿️  
+🇩🇿️   Algeria
 
-🇹🇳️
+🇹🇳️  Tunisia
 
-🇲🇦️
+🇲🇦️  Moroco
 
-🇱🇾️
+🇱🇾️  Libya
 
-🇪🇬️
+🇪🇬️  Egypt
 
 # ⚠️ About 
 
