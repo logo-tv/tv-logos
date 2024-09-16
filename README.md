@@ -15,13 +15,13 @@ Click on a country to go to its directory. From there you can click the mosaic f
 
 |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |
 |---|---|---|---|---|---|
-| 🇦🇱 [Albania]  | 🇦🇷 [Argentina]  | 🇦🇺 [Australia]  | 🇦🇹 [Austria]  | 🇧🇪 [Belgium]  | 🇨🇦 [Canada]  |
+| 🇦🇱 [Albania]  | 🇩🇿️ [Algeria] | 🇦🇷 [Argentina] | 🇦🇺 [Australia]  | 🇦🇹 [Austria]  | 🇧🇪 [Belgium]  | 🇨🇦 [Canada]  |
 | 🌎 [Caribbean] | 🇨🇷 [Costa-Rica]  | 🇭🇷 [Croatia]  | 🇩🇰 [Denmark]  | 🇫🇮 [Finland]  | 🇫🇷 [France]  |
 | 🇩🇪 [Germany]  | 🇬🇷 [Greece]  | 🇭🇰 [Hong-Kong]  | 🇮🇸 [Iceland]  | 🇮🇳 [India]  | 🇮🇩 [Indonesia]  |
-| 🌍 [International] | 🇮🇱 [Israel]  | 🇮🇹 [Italy]  | 🇱🇧 [Lebanon]  | 🇱🇹 [Lithuania]  | 🇲🇾 [Malaysia]  |
+| 🌍 [International]  | 🇮🇹 [Italy]  | 🇱🇧 [Lebanon]  | | 🇱🇾️ [Libya]🇱🇹 [Lithuania] | 🇲🇦️ [Moroco] | 🇲🇾 [Malaysia]  |
 | 🇲🇹 [Malta]  | 🇲🇽 [Mexico]  | 🇳🇱 [Netherlands]  | 🇳🇿 [New-Zealand]  | 🌍 [Nordic] | 🇳🇴 [Norway]  |
 | 🇵🇭 [Philippines]  | 🇵🇱 [Poland]  | 🇵🇹 [Portugal]  | 🇷🇴 [Romania]  | 🇷🇺 [Russia]  | 🇷🇸 [Serbia]  |
-| 🇸🇬 [Singapore]  | 🇿🇦 [South-Africa]  | 🇪🇸 [Spain]  | 🇸🇪 [Sweden]  | 🇨🇭 [Switzerland]  | 🇹🇷 [Turkey]  |
+| 🇸🇬 [Singapore]  | 🇿🇦 [South-Africa]  | 🇪🇸 [Spain]  | 🇸🇪 [Sweden]  | 🇨🇭 [Switzerland]  | 🇹🇳️ [Tunisia]| 🇹🇷 [Turkey]  |
 | 🇺🇦 [Ukraine]  | 🇦🇪 [United-Arab-Emirates]  | 🇬🇧 [United-Kingdom]  | 🇺🇸 [United-States]  | 🌍 [World-Africa] | 🌏 [World-Asia] |
 | 🌍 [World-Europe] | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | 🌏 [World-Oceania]  |
 
@@ -44,7 +44,6 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [India]:https://github.com/logo-tv/tv-logos/tree/main/country/india "India"
 [Indonesia]:https://github.com/logo-tv/tv-logos/tree/main/country/indonesia "Indonesia"
 [International]:https://github.com/logo-tv/tv-logos/tree/main/country/international "International"
-[Israel]:https://github.com/logo-tv/tv-logos/tree/main/country/israel "Israel"
 [Italy]:https://github.com/logo-tv/tv-logos/tree/main/country/italy "Italy"
 [Lebanon]:https://github.com/logo-tv/tv-logos/tree/main/country/lebanon "Lebanon"
 [Lithuania]:https://github.com/logo-tv/tv-logos/tree/main/country/lithuania "Lithuania"
@@ -68,9 +67,9 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [Switzerland]:https://github.com/logo-tv/tv-logos/tree/main/country/switzerland "Switzerland"
 [Turkey]:https://github.com/logo-tv/tv-logos/tree/main/country/turkey "Turkey"
 [Ukraine]:https://github.com/logo-tv/tv-logos/tree/main/country/ukraine "Ukraine"
-[United-Arab-Emirates]:https://github.com/logo-tv/tv-logos/tree/main/country/united-arab-emirates "United-Arab-Emirates"
-[United-Kingdom]:https://github.com/logo-tv/tv-logos/tree/main/country/united-kingdom "United-Kingdom"
-[United-States]:https://github.com/logo-tv/tv-logos/tree/main/country/united-states "United-States"
+[United-Arab-Emirates]:https://github.com/logo-tv/tv-logos/tree/main/country/emirates "United-Arab-Emirates"
+[United-Kingdom]:https://github.com/logo-tv/tv-logos/tree/main/country/uk "United-Kingdom"
+[United-States]:https://github.com/logo-tv/tv-logos/tree/main/country/usa "United-States"
 [World-Africa]:https://github.com/logo-tv/tv-logos/tree/main/country/world-africa "World-Africa"
 [World-Asia]:https://github.com/logo-tv/tv-logos/tree/main/country/world-asia "World-Asia"
 [World-Europe]:https://github.com/logo-tv/tv-logos/tree/main/country/world-europe "World-Europe"
@@ -81,6 +80,6 @@ Click on a country to go to its directory. From there you can click the mosaic f
 
 
 
-## Free Dz
+## Free Dz 🇩🇿️
 
 
