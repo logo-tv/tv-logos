@@ -1,9 +1,9 @@
 [![Stargazers repo roster for @snoopidz/tv-logos](https://reporoster.com/stars/snoopidz/tv-logos)](https://github.com/snoopidz/tv-logos/stargazers)
 
 
-# 1First this project  Not for me
+# About 
 
-It belongs to the original owner. I just re-edited it. All rights belong to the original owner. Thank you.
+Logos for most of the world's channels dedicated to programs and applications
 
 ## 📝 Logo request
 
@@ -23,7 +23,7 @@ Click on a country to go to its directory. From there you can click the mosaic f
 | 🇵🇭 [Philippines]  | 🇵🇱 [Poland]  | 🇵🇹 [Portugal]  | 🇷🇴 [Romania]  | 🇷🇺 [Russia]  | 🇷🇸 [Serbia]  |
 | 🇸🇬 [Singapore]  | 🇿🇦 [South-Africa]  | 🇪🇸 [Spain]  | 🇸🇪 [Sweden]  | 🇨🇭 [Switzerland]  | 🇹🇷 [Turkey]  |
 | 🇺🇦 [Ukraine]  | 🇦🇪 [United-Arab-Emirates]  | 🇬🇧 [United-Kingdom]  | 🇺🇸 [United-States]  | 🌍 [World-Africa] | 🌏 [World-Asia] |
-| 🌍 [World-Europe] | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | 🌏 [World-Oceania] | ⭐️ [Misc] | 📼 [Vod] |
+| 🌍 [World-Europe] | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | 🌏 [World-Oceania]  |
 
 [Albania]:https://github.com/logo-tv/tv-logos/tree/main/country/albania "Albania"
 [Argentina]:https://github.com/logo-tv/tv-logos/tree/main/country/argentina "Argentina"
@@ -77,10 +77,8 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [World-Latin-America]:https://github.com/logo-tv/tv-logos/tree/main/country/world-latin-america "World-Latin-America"
 [World-Middle-East]:https://github.com/logo-tv/tv-logos/tree/main/country/world-middle-east "World-Middle-East"
 [World-Oceania]:https://github.com/logo-tv/tv-logos/tree/main/country/world-oceania "World-Oceania"
-[Misc]:https://github.com/logo-tv/tv-logos/tree/main/misc "Misc"
-[Vod]:https://github.com/logo-tv/tv-logos/tree/main/misc/vod "Vod"
 
-[Space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
+
 
 
 ## Free Dz
