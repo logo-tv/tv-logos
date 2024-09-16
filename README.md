@@ -13,14 +13,14 @@ Logos for most of the world's channels dedicated to programs and applications
 
 Click on a country to go to its directory. From there you can click the mosaic file at top to see the logos rendered. 
 
-|  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |
-|---|---|---|---|---|---|---|
+|  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |
+|---|---|---|---|---|---|
 | 🇦🇱 [Albania]  | 🇩🇿️ [Algeria] | 🇦🇷 [Argentina] | 🇦🇺 [Australia]  | 🇦🇹 [Austria]  | 🇧🇪 [Belgium]  | 🇨🇦 [Canada]  |
 | 🌎 [Caribbean] | 🇨🇷 [Costa-Rica]  | 🇭🇷 [Croatia]  | 🇩🇰 [Denmark]  | 🇫🇮 [Finland]  | 🇫🇷 [France]  |
 | 🇩🇪 [Germany]  | 🇬🇷 [Greece]  | 🇭🇰 [Hong-Kong]  | 🇮🇸 [Iceland]  | 🇮🇳 [India]  | 🇮🇩 [Indonesia]  |
-| 🌍 [International]  | 🇮🇹 [Italy]  | 🇱🇧 [Lebanon]  | 🇱🇾️ [Libya] |🇱🇹 [Lithuania] | 🇲🇦️ [Moroco] | 🇲🇾 [Malaysia]  |
-| 🇲🇹 [Malta]  | 🇲🇽 [Mexico]  | 🇳🇱 [Netherlands]  | 🇳🇿 [New-Zealand]  | 🌍 [Nordic] | 🇳🇴 [Norway]  |
-| 🇵🇭 [Philippines]  | 🇵🇱 [Poland]  | 🇵🇹 [Portugal]  | 🇷🇴 [Romania]  | 🇷🇺 [Russia]  | 🇷🇸 [Serbia]  |
+| 🌍 [International]  | 🇮🇹 [Italy]  | 🇱🇧 [Lebanon]  | 🇱🇾️ [Libya] |🇱🇹 [Lithuania] | 🇲🇦️ [Moroco]
+ | 🇲🇾 [Malaysia]  | 🇲🇹 [Malta]  | 🇲🇽 [Mexico]  | 🇳🇱 [Netherlands]  | 🇳🇿 [New-Zealand]  | 🌍 [Nordic] |
+| 🇳🇴 [Norway]  | 🇵🇭 [Philippines]  | 🇵🇱 [Poland]  | 🇵🇹 [Portugal]  | 🇷🇴 [Romania]  | 🇷🇺 [Russia]  | 🇷🇸 [Serbia]  |
 | 🇸🇬 [Singapore]  | 🇿🇦 [South-Africa]  | 🇪🇸 [Spain]  | 🇸🇪 [Sweden]  | 🇨🇭 [Switzerland]  | 🇹🇳️ [Tunisia]| 🇹🇷 [Turkey]  |
 | 🇺🇦 [Ukraine]  | 🇦🇪 [United-Arab-Emirates]  | 🇬🇧 [United-Kingdom]  | 🇺🇸 [United-States]  | 🌍 [World-Africa] | 🌏 [World-Asia] |
 | 🌍 [World-Europe] | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | 🌏 [World-Oceania]  |
