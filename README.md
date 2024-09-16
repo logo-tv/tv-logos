@@ -1,11 +1,11 @@
 [![Stargazers repo roster for @snoopidz/tv-logos](https://reporoster.com/stars/snoopidz/tv-logos)](https://github.com/snoopidz/tv-logos/stargazers)
 
 
-# About 
+# ⚠️ About 
 
 Logos for most of the world's channels dedicated to programs and applications
 
-## 📝 Logo request
+## ✏️ Logo request
 
 [CLICK HERE](https://forms.gle/BVjAKFXwSCuWhpYi7) to go to a form request page where you can request a logo.
 
