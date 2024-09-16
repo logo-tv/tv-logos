@@ -1,5 +1,8 @@
-[![Stargazers repo roster for @snoopidz/tv-logos](https://reporoster.com/stars/snoopidz/tv-logos)](https://github.com/snoopidz/tv-logos/stargazers)
+[![Stargazers repo roster for @logo-tv/tv-logos](https://reporoster.com/stars/snoopidz/tv-logos)](https://github.com/snoopidz/tv-logos/stargazers)
 
+# 🆕️New ...
+
+Logo North Africa
 
 # ⚠️ About 
 
@@ -16,7 +19,7 @@ Click on a country to go to its directory. From there you can click the mosaic f
 |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |
 |---|---|---|---|---|---|
 | 🇦🇱 [Albania]  | 🇩🇿️ [Algeria] | 🇦🇷 [Argentina] | 🇦🇺 [Australia]  | 🇦🇹 [Austria]  | 🇧🇪 [Belgium]  | 🇨🇦 [Canada]  |
-| 🌎 [Caribbean] | 🇨🇷 [Costa-Rica]  | 🇭🇷 [Croatia]  | 🇩🇰 [Denmark]  | 🇫🇮 [Finland]  | 🇫🇷 [France]  |
+| 🌎 [Caribbean] | 🇨🇷 [Costa-Rica]  | 🇭🇷 [Croatia]  | 🇩🇰 [Denmark]  | 🇪🇬️[Egypt] | 🇫🇮 [Finland]   | 🇫🇷 [France]  |
 | 🇩🇪 [Germany]  | 🇬🇷 [Greece]  | 🇭🇰 [Hong-Kong]  | 🇮🇸 [Iceland]  | 🇮🇳 [India]  | 🇮🇩 [Indonesia]  |
 | 🌍 [International]  | 🇮🇹 [Italy]  | 🇱🇧 [Lebanon]  | 🇱🇾️ [Libya] |🇱🇹 [Lithuania] | 🇲🇦️ [Moroco]
  | 🇲🇾 [Malaysia]  | 🇲🇹 [Malta]  | 🇲🇽 [Mexico]  | 🇳🇱 [Netherlands]  | 🇳🇿 [New-Zealand]  | 🌍 [Nordic] |
@@ -36,6 +39,7 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [Costa-Rica]:https://github.com/logo-tv/tv-logos/tree/main/country/costa-rica "Costa-Rica"
 [Croatia]:https://github.com/logo-tv/tv-logos/tree/main/country/croatia "Croatia"
 [Denmark]:https://github.com/logo-tv/tv-logos/tree/main/country/nordic/denmark "Denmark"
+[Egypt]:https://github.com/logo-tv/tv-logos/tree/main/country/nordic/egypt "Egypt"
 [Finland]:https://github.com/logo-tv/tv-logos/tree/main/country/nordic/finland "Finland"
 [France]:https://github.com/logo-tv/tv-logos/tree/main/country/france "France"
 [Germany]:https://github.com/logo-tv/tv-logos/tree/main/country/germany "Germany"
